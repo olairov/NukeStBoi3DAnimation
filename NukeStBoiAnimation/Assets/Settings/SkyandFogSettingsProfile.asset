@@ -44,7 +44,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   type:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   sphericalMode:
     m_OverrideState: 0
@@ -178,7 +178,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   hdriSky:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {fileID: 8900000, guid: 047d605c16d6f5c4ca92a7ca60f8c46b, type: 3}
   distortionMode:
     m_OverrideState: 0
