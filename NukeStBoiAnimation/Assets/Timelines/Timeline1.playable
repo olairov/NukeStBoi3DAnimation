@@ -78,7 +78,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 1
     m_ClipIn: 0
     m_Asset: {fileID: 7588350937325813079}
     m_Duration: 8
@@ -144,7 +144,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 1
     m_DisplayName: PlaneGroup1
   m_Markers:
     m_Objects: []
@@ -188,10 +188,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0.0000000000000021371793224034263
+    m_Start: 1.0000000000000022
     m_ClipIn: 0
     m_Asset: {fileID: -8258901013576496593}
-    m_Duration: 6
+    m_Duration: 9.499999999999998
     m_TimeScale: 1
     m_ParentTrack: {fileID: -3293820410730334531}
     m_EaseInDuration: 0
@@ -254,7 +254,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0.0000000000000021371793224034263
+    m_PreExtrapolationTime: 1.0000000000000022
     m_DisplayName: Vcam_FlyInGroup1
   m_Markers:
     m_Objects: []
@@ -363,10 +363,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 8
+    m_Start: 9.000000000000018
     m_ClipIn: 0
     m_Asset: {fileID: 2190557617357385268}
-    m_Duration: 1.0000000000000022
+    m_Duration: 1.499999999999984
     m_TimeScale: 1
     m_ParentTrack: {fileID: 20826424425609870}
     m_EaseInDuration: 0
@@ -399,13 +399,13 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 9024740285722580137}
-    m_Duration: 2.666666666666668
+    m_Duration: 3.6666666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 20826424425609870}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: -1
+    m_BlendOutDuration: 0
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -447,7 +447,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: VCam_FlyInGroup1
   - m_Version: 1
-    m_Start: 2.666666666666668
+    m_Start: 3.666666666666665
     m_ClipIn: 0
     m_Asset: {fileID: 983867391309174600}
     m_Duration: 1.333333333333334
@@ -455,29 +455,11 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 20826424425609870}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: -1
+    m_BlendInDuration: 0
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -516,7 +498,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: VCam_FlyInGroup2
   - m_Version: 1
-    m_Start: 4.000000000000002
+    m_Start: 4.999999999999999
     m_ClipIn: 0
     m_Asset: {fileID: 9071732710152379386}
     m_Duration: 2
@@ -549,7 +531,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: VCam_FlyOutOfGroup1
   - m_Version: 1
-    m_Start: 6.000000000000002
+    m_Start: 6.999999999999999
     m_ClipIn: 0
     m_Asset: {fileID: 7790072972940094564}
     m_Duration: 1.9999999999999982
@@ -600,7 +582,7 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: VCam_FlyOutOfGroup2
   - m_Version: 1
-    m_Start: 9.000000000000002
+    m_Start: 10.500000000000002
     m_ClipIn: 0
     m_Asset: {fileID: -409515687849597848}
     m_Duration: 1.9999999999999982
@@ -718,10 +700,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 8
+    m_Start: 9.000000000000018
     m_ClipIn: 0
     m_Asset: {fileID: -7476847257505463184}
-    m_Duration: 3
+    m_Duration: 3.4999999999999822
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4958957322138863198}
     m_EaseInDuration: 0
@@ -811,7 +793,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 1
     m_ClipIn: 0
     m_Asset: {fileID: 1179179135190573924}
     m_Duration: 8
@@ -942,10 +924,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 8
+    m_Start: 9.000000000000018
     m_ClipIn: 0
     m_Asset: {fileID: -6952491567989663771}
-    m_Duration: 3
+    m_Duration: 3.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8078314481505472675}
     m_EaseInDuration: 0
@@ -1008,7 +990,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 8
+    m_PreExtrapolationTime: 9.000000000000018
     m_DisplayName: PlaneFirstFlight
   m_Markers:
     m_Objects: []
