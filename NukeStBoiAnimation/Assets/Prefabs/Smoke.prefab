@@ -993,12 +993,12 @@ ParticleSystem:
           outWeight: 0
         - serializedVersion: 3
           time: 1
-          value: 0.7432442
-          inSlope: 1.4707817
-          outSlope: 1.4707817
+          value: 0.57657623
+          inSlope: 0.31464836
+          outSlope: 0.31464836
           tangentMode: 0
           weightedMode: 0
-          inWeight: 0.11025643
+          inWeight: 0.12113416
           outWeight: 0
         m_PreInfinity: 2
         m_PostInfinity: 2
